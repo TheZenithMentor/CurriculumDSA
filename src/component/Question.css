@@ -1,0 +1,67 @@
+/* src/components/Questions.css */
+.questions {
+    margin: 20px;
+  }
+  
+  .question-card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+  }
+  
+  .card-header {
+    padding: 15px;
+    border-bottom: 1px solid #dee2e6;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .card-body {
+    padding: 15px;
+  }
+  
+  .expand-icon {
+    font-size: 16px;
+    transition: transform 0.3s ease;
+  }
+  
+  .comments {
+    margin-top: 20px;
+  }
+  
+  .comments h5 {
+    margin-bottom: 10px;
+  }
+  
+  .comment {
+    border-top: 1px solid #dee2e6;
+    padding: 10px 0;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,13 @@
+/* src/components/NavbarComponent.css */
+.navbar-custom {
+    margin-bottom: 20px;
+  }
+  
+  .navbar-custom .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-custom .nav-link {
+    font-size: 1.1rem;
+  }
+  

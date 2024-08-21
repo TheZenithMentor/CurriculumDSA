@@ -1,0 +1,36 @@
+/* src/components/Syllabus.css */
+.syllabus {
+    padding: 20px;
+  }
+  
+  .syllabus-card {
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #ffffff;
+    position: relative;
+  }
+  
+  .syllabus-card h3 {
+    margin: 0;
+  }
+  
+  .syllabus-card p {
+    margin: 10px 0;
+  }
+  
+  .icon-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+  

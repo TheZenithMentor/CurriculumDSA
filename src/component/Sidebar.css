@@ -1,0 +1,45 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    width: 250px;
+    background-color: #f8f9fa;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    transition: width 0.3s ease;
+    border-right: 1px solid #dee2e6;
+  }
+  
+  .sidebar.collapsed {
+    width: 80px;
+  }
+  
+  .collapse-btn {
+    position: absolute;
+    top: 10px;
+    right: -20px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
+  .collapse-icon {
+    font-size: 16px;
+  }
+  
+  .collapse-icon.rotate {
+    transform: rotate(180deg);
+  }
+  
+  .nav-link {
+    padding: 10px;
+    color: #007bff;
+  }
+  
+  .nav-link:hover {
+    background-color: #e9ecef;
+  }
+  
