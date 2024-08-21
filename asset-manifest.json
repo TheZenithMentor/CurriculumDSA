@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CurriculumDSA/static/css/main.40348cbd.css",
+    "main.js": "/CurriculumDSA/static/js/main.a6976616.js",
+    "static/js/453.b5c2988b.chunk.js": "/CurriculumDSA/static/js/453.b5c2988b.chunk.js",
+    "index.html": "/CurriculumDSA/index.html",
+    "main.40348cbd.css.map": "/CurriculumDSA/static/css/main.40348cbd.css.map",
+    "main.a6976616.js.map": "/CurriculumDSA/static/js/main.a6976616.js.map",
+    "453.b5c2988b.chunk.js.map": "/CurriculumDSA/static/js/453.b5c2988b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40348cbd.css",
+    "static/js/main.a6976616.js"
+  ]
+}
